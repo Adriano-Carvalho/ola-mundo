@@ -20,10 +20,20 @@ Lista demarcada:
 * Teste1
 * Teste2
 * Teste3
-   * Teste3.1: parei em 21min
+   * Teste3.1
 
 Lista de tarefas:
 - [x] Criar a página principal.
 - [x] Criar a página da loja.
 - [ ] Finalizar a reunião com o cliente.
 - [ ] Receber o pagamento.
+
+Num | Nome | Nota
+---|---|---
+1 | Fulano | 8,5
+2 | José | 10,0
+3 | Maria | 9,0
+
+Não estou `print('Hello, World!')`
+
+Hello, hello 🖖
